@@ -1,2 +1,4 @@
 # hello-world
-practice
+This is my first assignment
+
+Love JK
